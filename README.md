@@ -1,0 +1,1 @@
+# To-generate-all-divisor-of-an-integer
